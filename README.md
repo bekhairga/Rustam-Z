@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔮
 -->
 
-### Hi there 👋, I'm Rustam
+### Hi there 👋, I'm Rustam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z" /> </p> 
 
