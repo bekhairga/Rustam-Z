@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z" /> </p> 
 
-## I'm a ML Beginner!
+## I'm a ML Beginner and I'm Building the Future 🚀!
 
 - 🔭 I’m currently learning Machine Learning and Data Science!
 - 🥅 2020 Goals: Enter the realm of artificial intelligence 
@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zokirovrustam202@gmail.com)](mailto:zokirovrustam202@gmail.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rz_zokirov)
 - 💬 Ask me about any interesting questions
-- 🚀 Building the future... 
 
   <img align="left" alt="Rustam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rustam-Z&show_icons=true&hide_border=true" />
  
