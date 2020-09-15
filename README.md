@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔮
 -->
 
 ### Hi there 👋, I'm Rustam
@@ -27,6 +28,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zokirovrustam202@gmail.com)](mailto:zokirovrustam202@gmail.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rz_zokirov)
 - 💬 Ask me about any interesting questions
+- 🚀 Building the future... 
 
   <img align="left" alt="Rustam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rustam-Z&show_icons=true&hide_border=true" />
  
