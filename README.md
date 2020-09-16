@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🔮
+- 🔮 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 -->
 
-### Hi there 👋, I'm Rustam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+### Hi there 👋, I'm Rustam 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z" /> </p> 
 
