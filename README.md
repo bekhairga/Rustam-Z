@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z" /> </p> 
 
-## I'm a ML Beginner and I'm Building the Future 🚀!
+## I'm a machine learning beginner, my mission is to build the future 🚀
 
-- 🔭 I’m currently learning Machine Learning and Data Science!
-- 🥅 2020 Goals: Enter the world of artificial intelligence
-- ⚡ Fun fact: I wanted to do web development but switched to ML 
+- 🔭 I’m currently learning Machine Learning to be the Yaintern!
+- 🥅 2020 Goals: Enter the world of artificial intelligence and find what I'm interested in
+- ⚡ Fun fact: I don't want to be just a coder...
 - 💬 Ask me about any interesting questions 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/rustam-zokirov-6476b71a2/) 
