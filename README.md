@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## I'm a ML Beginner and I'm Building the Future 🚀!
 
 - 🔭 I’m currently learning Machine Learning and Data Science!
-- 🥅 2020 Goals: Enter the realm of artificial intelligence 
+- 🥅 2020 Goals: Enter the world of artificial intelligence
 - ⚡ Fun fact: I wanted to do web development but switched to ML 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/rustam-zokirov-6476b71a2/) 
