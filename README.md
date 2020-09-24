@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/Rustam-Z?label=Follow&style=social) 
 [![Years Badge](https://badges.pufler.dev/years/Rustam-Z)](https://badges.pufler.dev/years/Rustam-Z)
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
 - 🔭 I’m currently learning Machine Learning to be the Yaintern!
 - 🥅 2020 Goals: Enter the world of artificial intelligence and find what I'm interested in
 - ⚡ Fun fact: I don't want to be just a coder...
