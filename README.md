@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🔮 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z" /> </p> 
 -->
 
 <h1 align="center">Hi there 👋, I'm Rustam </h1>
@@ -20,7 +21,11 @@ Here are some ideas to get you started:
 </p>
 <p align="center"><b>Seeking Machine Learning Intern roles!!🚀</b></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z" /> </p> 
+![GitHub followers](https://img.shields.io/github/followers/Rustam-Z?label=Follow&style=social) 
+![Profile views](https://gpvc.arturio.dev/Rustam-Z) 
+[![Years Badge](https://badges.pufler.dev/years/Rustam-Z)](https://badges.pufler.dev/years/Rustam-Z)
+[![Repos Badge](https://badges.pufler.dev/repos/Rustam-Z)](https://badges.pufler.dev/repos/Rustam-Z)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Rustam-Z)](https://badges.pufler.dev/commits/monthly/Rustam-Z)
 
 - 🔭 I’m currently learning Machine Learning to be the Yaintern!
 - 🥅 2020 Goals: Enter the world of artificial intelligence and find what I'm interested in
