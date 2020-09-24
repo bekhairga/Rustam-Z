@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 🔮 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 -->
 
-### Hi there 👋, I'm Rustam 
+<h1 align="center">Hi there 👋, I'm Rustam </h1>
+<p align="center"><b> Machine Learning Enthusiast. Currently pursuing Bachelors in C.S. at Inha University in Tashkent.
+ </b>
+</p>
+<p align="center"><b>Seeking Machine Learning Intern roles!!🚀</b></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z" /> </p> 
-
-## I'm a machine learning beginner, my mission is to build the future 🚀
 
 - 🔭 I’m currently learning Machine Learning to be the Yaintern!
 - 🥅 2020 Goals: Enter the world of artificial intelligence and find what I'm interested in
