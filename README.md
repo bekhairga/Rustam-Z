@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔮 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z" /> </p> 
+<h3 align="center"><b>Seeking Machine Learning Intern roles!!</b></h3>
+
 -->
 
 <h1 align="center">Hi there 👋, I'm Rustam </h1>
 <h2 align="center"><b> Machine Learning Enthusiast. Currently pursuing Bachelors in C.S. at Inha University in Tashkent.
  </b>
 </h2>
-<h3 align="center"><b>Seeking Machine Learning Intern roles!!</b></h3>
 
 
 [![Repos Badge](https://badges.pufler.dev/repos/Rustam-Z)](https://badges.pufler.dev/repos/Rustam-Z)
