@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Rustam </h1>
-<p align="center"><b> Machine Learning Enthusiast. Currently pursuing Bachelors in C.S. at Inha University in Tashkent.
+<h3 align="center"><b> Machine Learning Enthusiast. Currently pursuing Bachelors in C.S. at Inha University in Tashkent.
  </b>
-</p>
-<p align="center"><b>Seeking Machine Learning Intern roles!!🚀</b></p>
+</h3>
+<h4 align="center"><b>Seeking Machine Learning Intern roles!!</b></h4>
 
 
 [![Repos Badge](https://badges.pufler.dev/repos/Rustam-Z)](https://badges.pufler.dev/repos/Rustam-Z)
