@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi There 👋, I'm Rustam
-## ML Beginner, CS Sophomore at Inha University 
+### ML Beginner, CS Sophomore at Inha University 
 
 
 
@@ -33,13 +33,14 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rz_zokirov)
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats? 
+
 [![Repos Badge](https://badges.pufler.dev/repos/Rustam-Z)](https://badges.pufler.dev/repos/Rustam-Z)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Rustam-Z)](https://badges.pufler.dev/commits/monthly/Rustam-Z)
 ![Profile views](https://gpvc.arturio.dev/Rustam-Z) 
 ![GitHub followers](https://img.shields.io/github/followers/Rustam-Z?label=Follow&style=social) 
 [![Years Badge](https://badges.pufler.dev/years/Rustam-Z)](https://badges.pufler.dev/years/Rustam-Z)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats? 
 ![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=Rustam-Z&show_icons=true)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam-Z&layout=compact)](https://github.com/Rustam-Z/github-readme-stats)
 
