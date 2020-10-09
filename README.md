@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 
 -->
 
-# Hi There 👋, I'm Rustam
-### ML Beginner, CS Sophomore at Inha University 
-
-
+# Hi There 👋, I'm Rustam - ML Beginner, CS Sophomore at Inha University 
 
 - 🔭 I’m currently learning Machine Learning to be the Yaintern!
 - 🥅 2020 Goals: Enter the world of artificial intelligence and find what I'm interested in
