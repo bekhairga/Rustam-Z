@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Hi there 👋, I'm Rustam </h1>
-<h2 align="center"><b> Machine Learning Enthusiast. Currently pursuing Bachelors in C.S. at Inha University in Tashkent.
- </b>
-</h2>
+# Hi there 👋, I'm Rustam
+### ML beginner, CS sophomore at Inha University 
+
 
 
 [![Repos Badge](https://badges.pufler.dev/repos/Rustam-Z)](https://badges.pufler.dev/repos/Rustam-Z)
