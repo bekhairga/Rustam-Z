@@ -18,20 +18,17 @@ Here are some ideas to get you started:
 
 -->
 
-# Hi There 👋, I'm Rustam 
-- 🌱 ML Beginner, CS Sophomore at Inha University 
-- 🔭 I’m currently learning Machine Learning to be the Yaintern!
-- 🥅 2020 Goals: Enter the world of artificial intelligence and find what I'm interested in
-- ⚡ Fun fact: I don't want to be just a coder...
+## Hi There 👋, I'm Rustam - ML Beginner, CS Sophomore at Inha University 
+- 🚀 I’m currently learning Machine Learning
+- 🥅 2020 Goals: Yaintern mission!
+- ⚡ My mission: Build the Future! 
 - 💬 Ask me about any interesting questions 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/rustam-zokirov-6476b71a2/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zokirovrustam202@gmail.com)](mailto:zokirovrustam202@gmail.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rz_zokirov)
 
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats? 
-
 [![Repos Badge](https://badges.pufler.dev/repos/Rustam-Z)](https://badges.pufler.dev/repos/Rustam-Z)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Rustam-Z)](https://badges.pufler.dev/commits/monthly/Rustam-Z)
 ![Profile views](https://gpvc.arturio.dev/Rustam-Z) 
