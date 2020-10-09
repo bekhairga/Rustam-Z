@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi There 👋, I'm Rustam
-## ML Beginner, CS Sophomre at Inha University 
+## ML Beginner, CS Sophomore at Inha University 
 
 
 
