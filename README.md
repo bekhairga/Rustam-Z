@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
 
   - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/rustam-zokirov-6476b71a2/) 
-  - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zokirovrustam202@gmail.com)](mailto:zokirovrustam202@gmail.com) 
-  - [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rz_zokirov)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zokirovrustam202@gmail.com)](mailto:zokirovrustam202@gmail.com) 
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rz_zokirov)
 
 ### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> How about some stats?
 [![Repos Badge](https://badges.pufler.dev/repos/Rustam-Z)](https://badges.pufler.dev/repos/Rustam-Z)
