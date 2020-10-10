@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about any interesting questions 
 
 
-### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> How about some stats?
+## <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> How about some stats?
 [![Repos Badge](https://badges.pufler.dev/repos/Rustam-Z)](https://badges.pufler.dev/repos/Rustam-Z)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Rustam-Z)](https://badges.pufler.dev/commits/monthly/Rustam-Z)
 ![Profile views](https://gpvc.arturio.dev/Rustam-Z) 
