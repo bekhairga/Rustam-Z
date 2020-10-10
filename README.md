@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zokirovrustam202@gmail.com)](mailto:zokirovrustam202@gmail.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rz_zokirov)
 - 💬 Ask me about any interesting questions 
-
-
 ## <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> How about some stats?
 [![Repos Badge](https://badges.pufler.dev/repos/Rustam-Z)](https://badges.pufler.dev/repos/Rustam-Z)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Rustam-Z)](https://badges.pufler.dev/commits/monthly/Rustam-Z)
