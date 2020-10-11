@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Hi There 👋, I'm Rustam - ML Beginner, CS Sophomore at Inha University 
 - 🚀 I’m currently learning Machine Learning
-- 🥅 2020 Goals: Yaintern mission!
+- 🥅 2020 Goals: Prepare for Yaintern role!
 - ⚡ My mission: Build the Future! 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/rustam-zokirov-6476b71a2/) 
