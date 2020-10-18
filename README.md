@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 <h3 align="center"><b>Seeking Machine Learning Intern roles!!</b></h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+## <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> How about some stats?
+[![Repos Badge](https://badges.pufler.dev/repos/Rustam-Z)](https://badges.pufler.dev/repos/Rustam-Z)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Rustam-Z)](https://badges.pufler.dev/commits/monthly/Rustam-Z)
+![Profile views](https://gpvc.arturio.dev/Rustam-Z) 
+![GitHub followers](https://img.shields.io/github/followers/Rustam-Z?label=Follow&style=social) 
+
 -->
 
 ## Hi There 👋, I'm Rustam - ML Beginner, CS Sophomore at Inha University 
@@ -27,11 +33,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zokirovrustam202@gmail.com)](mailto:zokirovrustam202@gmail.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rz_zokirov)
 - 💬 Ask me about any interesting questions 
-## <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"> How about some stats?
-[![Repos Badge](https://badges.pufler.dev/repos/Rustam-Z)](https://badges.pufler.dev/repos/Rustam-Z)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Rustam-Z)](https://badges.pufler.dev/commits/monthly/Rustam-Z)
-![Profile views](https://gpvc.arturio.dev/Rustam-Z) 
-![GitHub followers](https://img.shields.io/github/followers/Rustam-Z?label=Follow&style=social) 
 
 ![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=Rustam-Z&show_icons=true)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam-Z&layout=compact)](https://github.com/Rustam-Z/github-readme-stats)
