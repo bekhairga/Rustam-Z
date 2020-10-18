@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Rustam-Z)](https://badges.pufler.dev/commits/monthly/Rustam-Z)
 ![Profile views](https://gpvc.arturio.dev/Rustam-Z) 
 ![GitHub followers](https://img.shields.io/github/followers/Rustam-Z?label=Follow&style=social) 
-[![Years Badge](https://badges.pufler.dev/years/Rustam-Z)](https://badges.pufler.dev/years/Rustam-Z)
 
 ![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=Rustam-Z&show_icons=true)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam-Z&layout=compact)](https://github.com/Rustam-Z/github-readme-stats)
