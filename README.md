@@ -37,19 +37,18 @@ https://github.com/anuraghazra/github-readme-stats
 - 📫 How to reach me: zokirovrustam202@gmail.com
 
 <p align="left">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> 
-    <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="38" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter-notebook" width="40" height="40"/> 
-    
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
+    <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="38" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter-notebook" width="40" height="40"/>
 </p>
 
 ![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=Rustam-Z&show_icons=true)    
 
 <p align="center"> 
-    <a href="https://twitter.com/https://twitter.com/rz_zokirov" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="https://twitter.com/rz_zokirov" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/rustam-zokirov-6476b71a2/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/rustam-zokirov-6476b71a2/" height="40" width="40" /></a>
-    <a href="https://t.me/rz_zokirov" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="https://t.me/rz_zokirov" height="40" width="40" /></a>
+    <a href="https://twitter.com/https://twitter.com/rz_zokirov" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="https://twitter.com/rz_zokirov" height="30" width="30" /></a>
+    <a href="https://www.linkedin.com/in/rustam-zokirov-6476b71a2/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/rustam-zokirov-6476b71a2/" height="30" width="30" /></a>
+    <a href="https://t.me/rz_zokirov" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="https://t.me/rz_zokirov" height="30" width="30" /></a>
 </p>
