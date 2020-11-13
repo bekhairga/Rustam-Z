@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - ⚡ My mission: Build the future!
 - 📫 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/rustam-zokirov-6476b71a2/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zokirovrustam202@gmail.com)](mailto:zokirovrustam202@gmail.com) 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rz_zokirov)
+    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/rustam-zokirov-6476b71a2/) 
+    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zokirovrustam202@gmail.com)](mailto:zokirovrustam202@gmail.com) 
+    [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rz_zokirov)
 
 ![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=Rustam-Z&show_icons=true)    
