@@ -25,16 +25,18 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam-Z&layout=compact)](https://github.com/Rustam-Z/github-readme-stats)
 -->
 
-## Hi There 👋, I'm Rustam - ML & DL Beginner, CS Sophomore at Inha University 
-- 🚀 I’m currently learning Machine Learning and Deep Learning
-- 🥅 2020 Goals: Set new goals
-- ⚡ My mission: Build the Future! 
+<h1 align="center">Hi 👋, I'm Rustam Zokirov</h1>
+<h3 align="center">A passionate and curious guy from Uzbekistan, CS student at Inha University</h3>
+
+- 🔭 I’m currently learning Machine Learning and Deep Learning 
+- 💬 Ask me about Machine Learning, Django, and Python 
+- 🥅 2020 Goals: Learn ML and make ML projects.
+- ⚡ My mission: Build the future!
 - 📫 How to reach me:
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/rustam-zokirov-6476b71a2/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zokirovrustam202@gmail.com)](mailto:zokirovrustam202@gmail.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rz_zokirov)
 - 💬 Ask me about any interesting questions 
 
 ![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=Rustam-Z&show_icons=true)    
-
-
