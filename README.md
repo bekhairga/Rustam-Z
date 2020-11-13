@@ -47,7 +47,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 ![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=Rustam-Z&show_icons=true)    
 
-<p align="center"> 
+<p align="left"> 
     <a href="https://twitter.com/https://twitter.com/rz_zokirov" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="https://twitter.com/rz_zokirov" height="30" width="30" /></a>
     <a href="https://www.linkedin.com/in/rustam-zokirov-6476b71a2/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/rustam-zokirov-6476b71a2/" height="30" width="30" /></a>
     <a href="https://t.me/rz_zokirov" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="https://t.me/rz_zokirov" height="30" width="30" /></a>
