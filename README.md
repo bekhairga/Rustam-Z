@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 https://github.com/anuraghazra/github-readme-stats
 -->
 
-<h1 align="center">Hi 👋, I'm Rustam Zokirov</h1>
+<h1 align="center">Hi 👋, I'm Rustam</h1>
 <h3 align="center">A passionate and curious guy from Uzbekistan, CS student at Inha University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z" /> </p> 
