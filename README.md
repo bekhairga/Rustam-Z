@@ -30,7 +30,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z" /> </p> 
 
-- 🔭 I’m currently learning Machine Learning and Deep Learning 
+- 🔭 I’m currently learning Deep Learning
 - 💬 Ask me about **Machine Learning**, **Deep Learning**, and **Python & Django** 
 - 🥅 2020 Goals: Focus just on AI world
 - ⚡ My mission: Build the future!
