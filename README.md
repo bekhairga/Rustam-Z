@@ -31,10 +31,10 @@ https://github.com/anuraghazra/github-readme-stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z" /> </p> 
 
 - 🔭 I’m currently learning Machine Learning and Deep Learning 
-- 💬 Ask me about **Machine Learning**, **Django**, and **Python** 
-- 🥅 2020 Goals: Master ML and make ML projects.
+- 💬 Ask me about **Machine Learning**, **Deep Learning**, and **Python & Django** 
+- 🥅 2020 Goals: Focus just on AI world
 - ⚡ My mission: Build the future!
-- 📫 How to reach me: zokirovrustam202@gmail.com
+- 📫 How to reach me: **zokirovrustam202@gmail.com**
 
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
