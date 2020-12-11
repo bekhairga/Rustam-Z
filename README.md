@@ -28,23 +28,23 @@ https://github.com/anuraghazra/github-readme-stats
 <h1 align="center">Hi 👋, I'm Rustam</h1>
 <h3 align="center">A passionate and curious guy from Uzbekistan, CS student at Inha University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z"/> </p> 
 
 - 🔭 I’m currently learning Deep Learning
-- 💬 Ask me about **Machine Learning**, **Deep Learning**, and **Python & Django** 
-- 🥅 2020 Goals: Focus just on AI world
+- 💬 Ask me about **Machine Learning**, **Deep Learning**, and **Python|Django** 
+- 🥅 2020 Goals: Dive into Artificial Intellegence
 - ⚡ My mission: Build the future!
 - 📫 How to reach me: **zokirovrustam202@gmail.com**
 
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="sql" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
     <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="38" height="40"/>
+    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="37" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter-notebook" width="40" height="40"/>
-    <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/my-sql.svg" alt="sql" width="60" height="40"/>
 </p>
 
 ![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=Rustam-Z&show_icons=true)    
