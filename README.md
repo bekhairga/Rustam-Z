@@ -30,9 +30,9 @@ https://github.com/anuraghazra/github-readme-stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z"/> </p> 
 
-- 🔭 I’m currently learning Deep Learning
-- 💬 Ask me about **Machine Learning** and **Deep Learning**
-- 🥅 2020 Goals: Dive into Artificial Intellegence
+- 🔭 I’m currently working on Computer Vision project
+- 💬 Ask me about **Machine Learning**, **Deep Learning**, and **Python**
+- 🥅 2021 Goals: Make great AI based products 
 - ⚡ My mission: Build the future!
 - 📫 How to reach me: **zokirovrustam202@gmail.com**
 
