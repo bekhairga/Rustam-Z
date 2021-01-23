@@ -1,8 +1,8 @@
-## Hi there 👋 I am Rustam, machine learning enthusiast and CSE student at Inha University.
+## Hi there 👋 I am Rustam, Machine Learning enthusiast and CSE student at Inha University.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z"/> </p> 
 
 - 🔭 I’m currently working on computer vision project.
-- 🥅 2021 Goals: diving into deep learning, read 5 books on DL, join machine learning team.
+- 🥅 2021 Goals: read 5 books on deep learning, join the machine learning team, and help others learn machine learning.
 - 💬 Fun fact: I deleted all my social media apps. Except for LinkedIn, for professional purposes only. Honestly.
 - ⚡ My mission: Build the future!
 
