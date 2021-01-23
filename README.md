@@ -26,15 +26,14 @@ https://github.com/anuraghazra/github-readme-stats
 -->
 
 <h1 align="center">Hi 👋, I'm Rustam</h1>
-<h3 align="center">A passionate and curious guy from Uzbekistan, CS student at Inha University</h3>
+<h3 align="center">A passionate and curious guy from Uzbekistan, CSE student at Inha University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z"/> </p> 
 
 - 🔭 I’m currently working on Computer Vision project
-- 💬 Ask me about **Machine Learning**, **Deep Learning**, and **Python**
 - 🥅 2021 Goals: Dive into Deep Learning, read 5 books from DL, join machine learning team
+- 💬 Ask me about **Machine Learning**, **Deep Learning**, and **Python**
 - ⚡ My mission: Build the future!
-- 📫 How to reach me: **zokirovrustam202@gmail.com**
 
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
