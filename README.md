@@ -1,24 +1,12 @@
 ## Hi there 👋 I am Rustam, Machine Learning enthusiast and CSE student at Inha University.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z"/> </p> 
 
-- 🔭 I’m currently working on computer vision project.
-- 🥅 2021 Goals: read 5 books on deep learning, join the machine learning team, and help others learn machine learning.
-- 💬 Fun fact: I deleted all my social media apps. Except for LinkedIn, for professional purposes only. Honestly.
-- ⚡ My mission: Build the future!
-
-<!--<p align="left">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
-    <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg" alt="java" width="30" height="40"/>
-    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="37" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter-notebook" width="40" height="40"/>
-</p>
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/rustam-zokirov-6476b71a2/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="https://www.linkedin.com/in/rustam-zokirov-6476b71a2/" height="30" width="30" /></a>
-    <a href="https://t.me/rz_zokirov" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="https://t.me/rz_zokirov" height="30" width="30" /></a>
-    <a href="https://leetcode.com/rustam-z/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="30" /></a>
-</p>
--->
+- 🔭 I’m currently working on Computer Vision project.
+- 🥅 2021 Goals: read 5 books on deep learning, join strong machine learning team, and help others learn machine learning.
+- ⚡ Fun fact: I deleted all my social media apps. Except for LinkedIn, for professional purposes only. Honestly)
+- 🚀 My mission: Build the future!
+- 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.com/in/Rustam-Z) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Alimov.Abdullokh8@gamil.com)](mailto:zokirovrustam202@gamil.com) 
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rz_zokirov)
+<!-- If you are reading this believe me you can do big things! -->
