@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z"/> </p> 
 
 - 🔭 I’m currently working on Computer Vision project.
-- 🥅 2021 Goals: read 5 books on deep learning, join strong machine learning team, and help others learn machine learning.
+- 🥅 2021 Goals: read <a style="text-decoration: none;" href="https://github.com/Rustam-Z/deep-learning-notes#books"> 5 books on deep learning</a>, join Kaggle competitions, apply to Yaintern, and help others learn machine learning.
 - ⚡ Fun fact: I deleted all my social media apps. Except for LinkedIn, for professional purposes only. Honestly)
 - 🚀 My mission: Build the future!
 - 📫 How to reach me:
