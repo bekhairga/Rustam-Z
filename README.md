@@ -11,4 +11,6 @@
 <a href="https://t.me/rz_zokirov"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
 <a href="mailto:zokirovrustam202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
+[![Rustam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rustam-Z)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- If you are reading this believe me you can achieve big results! Always remember why you have started. -->
