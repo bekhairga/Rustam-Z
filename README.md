@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z"/> </p> 
 
-- 🤖 The goal is not learning Machine Learning, the goal is to learn how to build software with ML models. I'm currectly mastering TensorFlow following [TensorFlow curriculums](https://www.tensorflow.org/resources/learn-ml) to build NLP project.
+- 🤖 The goal is not learning Machine Learning, the goal is to learn how to build software with ML models. I'm currectly mastering TensorFlow following [TensorFlow curriculums](https://www.tensorflow.org/resources/learn-ml) to build NLP project in the 2021 summer.
 - 🥅 2021 Goals: read <a style="text-decoration: none;" href="https://github.com/Rustam-Z/deep-learning-notes#books"> 5 books on data science</a>, solve 20 Kaggle, and join strong Data Science team.
 - ⚡ Fun fact: I deleted all my social media apps. Except for LinkedIn, for professional purposes only. Honestly)
 - 🚀 My mission: By every step I am doing I want to make the future better! Help people, and share knowledge! 
