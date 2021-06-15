@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Rustam, Machine Learning Enthusiast and CSE student at Inha University.
-*TensorFlow, Keras, Scikit-Learn, OpenCV, NumPy, Pandas, Matplotlib, Computer Vision, Object Detection, Object Tracking*
+*TensorFlow, Keras, OpenCV, NumPy, Pandas, Computer Vision*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z"/> </p> 
 
