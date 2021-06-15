@@ -1,8 +1,6 @@
 ## Hi there 👋, I am Rustam, Machine Learning Enthusiast and CSE student at Inha University.
 *TensorFlow, Keras, OpenCV, NumPy, Pandas, Computer Vision*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rustam-Z" alt="Rustam-Z"/> </p> 
-
 - If you don’t influence the world, the world will influence you.
 - 🤖 I'm currectly mastering TensorFlow following [TensorFlow curriculums](https://www.tensorflow.org/resources/learn-ml) to build NLP project in the summer 2021.
 - 🥅 2021 Goals: read <a style="text-decoration: none;" href="https://github.com/Rustam-Z/deep-learning-notes#books"> 5 books on data science</a>, solve 20 Kaggle, and join strong Data Science team.
