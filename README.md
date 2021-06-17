@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Rustam, Machine Learning Enthusiast and CSE Student at Inha University.
 
-*TensorFlow, Keras, OpenCV, NumPy, Pandas, Computer Vision*
+*TensorFlow, Keras, Scikit-Learn, OpenCV, NumPy, Pandas, Computer Vision*
 
 - I'm currectly learning [TensorFlow](https://www.tensorflow.org/resources/learn-ml) to build NLP project during the 2021 summer.
 - 2021 Goals: read <a style="text-decoration: none;" href="https://github.com/Rustam-Z/deep-learning-notes#books"> 5 books on data science</a>, solve 20 Kaggle, and join strong Data Science team.
